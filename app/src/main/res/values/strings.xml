@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">WingsTest</string>
+    <string name="Login">Login</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_username">Username</string>
+    <string name="checkOut">Check out</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="buy">Buy</string>
+    <string name="price_cross"> <strike>Rp. 15.500</strike></string>
+    <string name="dummyName">Soklin</string>
+    <string name="price">Price</string>
+    <string name="price_unit">Price Unit</string>
+    <string name="dimension">Dimension</string>
+    <string name="must_be_filled">Must be filled</string>
+    <string name="wrong_credentials">Wrong credentials</string>
+    <string name="price_cross_w_value"><strike> Rp. %1$s </strike></string>
+    <string name="price_w_value">Rp . %1$s</string>
+    <string name="success_add">Item added to cart</string>
+    <string name="detail">Detail</string>
+    <string name="detail_product">Detail Product</string>
+    <string name="total">Total :</string>
+    <string name="dummyTotal">Rp. 100.000</string>
+    <string name="confirm">Confirm</string>
+    <string name="unit">PCS</string>
+    <string name="dummyQuantity">5</string>
+    <string name="subTotal">Sub Total : </string>
+    <string name="checkOut_confirmation">Checkout Confirmation</string>
+    <string name="checkOut_confirmation_message">"Are you sure want to checkout this order ? "</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="success_checkout">Success Checkout</string>
+    <string name="no_data_exist">Your basket is empty</string>
+</resources>
